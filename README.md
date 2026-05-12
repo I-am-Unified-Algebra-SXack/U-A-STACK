@@ -152,6 +152,4 @@ Property-based tests run via [fast-check](https://github.com/dubzzz/fast-check) 
 - [`docs/crdt-guide.md`](docs/crdt-guide.md) — CRDT field types and merge algebra
 - [`docs/verification.md`](docs/verification.md) — how algebraic laws are verified
 
-## License
 
-MIT
